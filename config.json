@@ -1,0 +1,14 @@
+{
+  "server": {
+    "version": "1.20.4",
+    "host": "mc.hypixel.com",
+    "port": 25565,
+    "useport": false
+  },
+  "bot": {
+    "auth": "offline",
+    "numberOfBots": 100,
+    "message": "Get Good"
+  }
+}
+
